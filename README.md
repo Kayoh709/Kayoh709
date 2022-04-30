@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20World!&fontSize=40)
 
 Maybe I can...
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=html5&logoColor=#E34F26"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
