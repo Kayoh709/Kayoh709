@@ -20,8 +20,8 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoh709)](https://github.com/Kayoh709/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pil123696)](https://solved.ac/pil123696)
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayoh709)](https://github.com/Kayoh709/github-readme-stats)
 
 </div>
 
