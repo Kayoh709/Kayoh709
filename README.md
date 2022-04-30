@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20World!&fontSize=40)
 
 <center>Maybe I can...</center>
-<center>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoh709)](https://github.com/Kayoh709/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=bid%20farewell,%20cruel%20world!&section=footer)
