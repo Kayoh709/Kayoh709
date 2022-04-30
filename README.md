@@ -1,5 +1,9 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20World!&fontSize=40)
 
+</div>
+  
 <div align="center">Maybe I can...</div>
 
 <div align="center">
@@ -10,9 +14,17 @@
 
 </div>
 
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoh709)](https://github.com/Kayoh709/github-readme-stats)
+  
+</div>
+
+<div align="center">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=bid%20farewell,%20cruel%20world!&section=footer)
+  
+</div>
 <!--
 **Kayoh709/Kayoh709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
