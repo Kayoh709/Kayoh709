@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20World!&fontSize=40)
 
 <span style="color:#A3574A">Kayoh709 </span>
+<span style="color: #0000FF">파랑</span>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
