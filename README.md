@@ -5,7 +5,7 @@ Maybe I can...
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayoh709)](https://github.com/Kayoh709/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 **Kayoh709/Kayoh709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
