@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20World%\n&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20World!&fontSize=40)
 
 <!--
 **Kayoh709/Kayoh709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
