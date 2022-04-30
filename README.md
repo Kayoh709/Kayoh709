@@ -17,11 +17,13 @@
 
 </div>
 
-<div>
-  <h2>I'm interested in...
+<div align="center">
+  <div>
+    <h2>I'm interested in...
+  </div>
 </div>
   
-<div>
+<div align="center">
     
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
